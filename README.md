@@ -8,6 +8,9 @@ JMU: Bachelors in Biology _22_\
 BRCC: Current for prerequistes\
 Georgia Tech: Hopefully Fall _2026_
 
+## Work
+I currently work in software sales within the ServiceNow ecosystem.
+
 ### Contact Information
 Email: custerbhc@gmail.com
 
