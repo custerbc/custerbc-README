@@ -3,6 +3,8 @@
 Hi GitHub, I am a aspiring data analyst taking prerequisities to prepare for a masters in Analytics from Georgia Tech. 
 I like hiking, football, and a finding swim holes. 
 
+## Edit from Dan OBrien- Great work!
+
 ## Education
 JMU: Bachelors in Biology _22_\
 BRCC: Current for prerequistes\
